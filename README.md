@@ -12,7 +12,11 @@ A modern food delivery application UI built with React and Tailwind CSS, featuri
 
 ## 🎯 Live Demo
 
-[View Live Demo](https://yourusername.github.io/swiggy-clone) | [Report Bug](https://github.com/yourusername/swiggy-clone/issues) | [Request Feature](https://github.com/yourusername/swiggy-clone/issues)
+
+https://github.com/user-attachments/assets/b5da6803-d83b-4a1c-a465-01e6026fbca0
+
+
+[View Live Demo](https://mayankahuja-pro.github.io/swiggy-clone) | [Report Bug](https://github.com/mayankahuja-pro/swiggy-clone/issues) | [Request Feature](https://github.com/yourusername/swiggy-clone/issues)
 
 ## 📋 Table of Contents
 
@@ -88,7 +92,7 @@ npm --version
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/swiggy-clone.git
+git clone https://github.com/mayankahuja-pro/swiggy-clone.git
 ```
 
 2. **Navigate to project directory**
@@ -361,8 +365,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourusername)
+- GitHub: [@yourusername](https://github.com/mayankahuja-pro)
+- LinkedIn: [Your Name](https://linkedin.com/in/mayankahuja-pro)
 - Email: your.email@example.com
 
 ## 🙏 Acknowledgments
@@ -374,24 +378,22 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📊 Project Stats
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/swiggy-clone)
-![GitHub code size](https://img.shields.io/github/languages/code-size/yourusername/swiggy-clone)
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/swiggy-clone)
-![GitHub watchers](https://img.shields.io/github/watchers/yourusername/swiggy-clone?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/mayankahuja-pro/swiggy-clone)
+![GitHub code size](https://img.shields.io/github/languages/code-size/mayankahuja-pro/swiggy-clone)
+![GitHub repo size](https://img.shields.io/github/repo-size/mayankahuja-pro/swiggy-clone)
+![GitHub watchers](https://img.shields.io/github/watchers/mayankahuja-pro/swiggy-clone?style=social)
 
 ---
 
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/yourusername">Your Name</a>
+  Made with ❤️ by <a href="https://github.com/mayankahuja-pro">Your Name</a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/swiggy-clone/stargazers">⭐ Star this repo</a> •
-  <a href="https://github.com/yourusername/swiggy-clone/fork">🍴 Fork this repo</a> •
-  <a href="https://github.com/yourusername/swiggy-clone/issues">🐛 Report Bug</a>
+  <a href="https://github.com/mayankahuja-pro/swiggy-clone/stargazers">⭐ Star this repo</a> •
+  <a href="https://github.com/mayankahuja-pro/swiggy-clone/fork">🍴 Fork this repo</a> •
+  <a href="https://github.com/mayankahuja-pro/swiggy-clone/issues">🐛 Report Bug</a>
 </p>
 ```
 
----
-
-**Note:** Replace `yourusername` and `your.email@example.com` with your actual GitHub username and email address before using this README.
+ .
